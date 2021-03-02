@@ -1,2 +1,2 @@
 # hello-world
-this is for my class
+Hey man, its armadno here trying to do a project 
